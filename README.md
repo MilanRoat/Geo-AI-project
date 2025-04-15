@@ -45,7 +45,7 @@ Overlay predictions on a Folium map for intuitive inspection.
 
 Each tile represents a classified land cover type like urban, forest, water, etc.
 
-📁 Folder Structure
+📁 Folder Structure  (find other files in this ZIP folder - https://drive.google.com/file/d/1JGwt7-4oFbaimpEqrJVO7IsL5m19Ew3B/view?usp=sharing)
 
 GeoVision/
 │
